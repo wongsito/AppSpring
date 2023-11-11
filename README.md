@@ -1,2 +1,2 @@
 # AppSpring
-# Wongsito / jenkins 1.o
+# Wongsito / jenkins 1.0
